@@ -1,0 +1,2 @@
+Auto-selected K = 2
+Rule: within SIL_TOL of best silhouette, pick lowest (rank_CH + rank_DB).

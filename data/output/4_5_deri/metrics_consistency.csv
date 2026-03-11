@@ -1,0 +1,7 @@
+metric_group,method,value
+corr_percentile,pearson,0.7282683885631186
+corr_percentile,spearman,0.7282683885631186
+corr_zscore,pearson,0.7350101290878039
+corr_zscore,spearman,0.7282683885631186
+top_overlap,Top 9%,0.46887966804979253
+top_overlap,Top 19%,0.5763239875389408

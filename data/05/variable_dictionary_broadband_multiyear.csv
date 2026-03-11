@@ -1,0 +1,23 @@
+﻿Variable,Description
+oa11cd,Output Area (OA) 2011 Code
+bba225_dow,Average download speed (all premises in OA) in Mbps (megabits per second) in May 2022.
+bba215_dow,Average download speed (all premises in OA) in Mbps (megabits per second) in May 2021.
+bba205_dow,Average download speed (all premises in OA) in Mbps (megabits per second) in May 2020.
+bba199_dow,Average download speed (all premises in OA) in Mbps (megabits per second) in September 2019.
+bba185_dow,Average download speed (all premises in OA) in Mbps (megabits per second) in May 2018.
+bba175_dow,Average download speed (all premises in OA) in Mbps (megabits per second) in May 2017.
+bba166_dow,Average download speed (all premises in OA) in Mbps (megabits per second) in June 2016.
+bba225_uf,Percentage of all premises in OA with Ultrafast Broadband (300Mbps+) available in May 2022.
+bba215_uf,Percentage of all premises in OA with Ultrafast Broadband (300Mbps+) available in May 2021.
+bba205_uf,Percentage of all premises in OA with Ultrafast Broadband (300Mbps+) available in May 2020.
+bba199_uf,Percentage of all premises in OA with Ultrafast Broadband (300Mbps+) available in September 2019.
+bba185_uf,Percentage of all premises in OA with Ultrafast Broadband (300Mbps+) available in May 2018.
+bba175_uf,Percentage of all premises in OA with Ultrafast Broadband (300Mbps+) available in May 2017.
+bba166_uf,Percentage of all premises in OA with Ultrafast Broadband (300Mbps+) available in June 2016.
+bba225_sfu,Percentage of all premises in OA with Superfast Broadband (30Mbps+) available in May 2022.
+bba215_sfu,Percentage of all premises in OA with Superfast Broadband (30Mbps+) available in May 2021.
+bba205_sfu,Percentage of all premises in OA with Superfast Broadband (30Mbps+) available in May 2020.
+bba199_sfu,Percentage of all premises in OA with Superfast Broadband (30Mbps+) available in September 2019.
+bba185_sfu,Percentage of all premises in OA with Superfast Broadband (30Mbps+) available in May 2018.
+bba175_sfu,Percentage of all premises in OA with Superfast Broadband (30Mbps+) available in May 2017.
+bba166_sfu,Percentage of all premises in OA with Superfast Broadband (30Mbps+) available in June 2016.

@@ -1,0 +1,3 @@
+variable,source_col,n_before,n_used,n_islands_dropped,I,p_sim,z_sim,n,permutations
+DPI,dpi_score,4813,4813,0,0.40484706344702853,0.01,44.47149599390698,4813,99
+ICS,ics_score_z,4813,4813,0,0.3641436418826629,0.01,42.23832078843018,4813,99

@@ -1,0 +1,3 @@
+threshold_pct,n_ics_high,n_deri_high,n_intersection,overlap_rate_inter_over_ics,jaccard_inter_over_union
+0.9,482,482,226,0.46887966804979253,0.3062330623306233
+0.8,963,963,555,0.5763239875389408,0.4048140043763676
